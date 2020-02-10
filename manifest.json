@@ -12,7 +12,8 @@
 
   "permissions": [
 		"*://*.rohlik.cz/*",
-		"*://rohlik.cz/*"
+		"*://rohlik.cz/*",
+    "https://api.heureka.cz/*",
 	],
 
  "content_scripts": [
